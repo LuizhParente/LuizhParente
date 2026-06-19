@@ -1,3 +1,7 @@
+<div align="center">
+<img width="1240" height="480" alt="Image" src="https://github.com/user-attachments/assets/3cf60ce0-3a75-471b-8b3a-be6511ef2663" />
+</div>
+
 # Engenharia de Software · IA aplicada ao Comércio Exterior
  
 Estudante de Engenharia de Software atuando na *China Gate* — assessoria de importação China-Brasil com mais de 300 operações mensais.
@@ -6,9 +10,9 @@ Meu foco está em aplicar *Inteligência Artificial e automação* em ambientes 
  
 ---
 
- 🛠️ Tecnologias
+## 🛠️ Tecnologias
 
-<div>
+<div align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,git,vscode," />
 </div>
 
