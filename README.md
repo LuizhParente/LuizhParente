@@ -15,22 +15,22 @@ Meu foco está em aplicar *Inteligência Artificial e automação* em ambientes 
 ## 📊 Github Stats
 <div align="center">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielnavarrogermano-code&show_icons=true&theme=dark&hide_border=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnavarrogermano-code&layout=compact&theme=dark&hide_border=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuizhParente&show_icons=true&theme=dark&hide_border=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizhParente&layout=compact&theme=dark&hide_border=true"/>
 <div>
          
 <h3>📫 Conecte-se comigo</h3>
 
 <p>
-  <a href="mailto:gabrielnavarrogermano@gmail.com">
+  <a href="mailto:luizh.mello2013@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
-  <a href="https://www.linkedin.com/in/gabriel-navarro-germano/">
+  <a href="https://www.linkedin.com/in/luiz-henrique-b4b17b413/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
-  <a href="https://www.instagram.com/gabriel_germano00/">
+  <a href="https://www.instagram.com/zlparente/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
