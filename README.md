@@ -6,7 +6,7 @@ Meu foco está em aplicar *Inteligência Artificial e automação* em ambientes 
  
 ---
 
- ## 🛠️ Tecnologias
+ 🛠️ Tecnologias
 
 <div>
 <img src="https://skillicons.dev/icons?i=python,mysql,git,vscode," />
