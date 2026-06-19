@@ -1,16 +1,20 @@
-## Hi there 👋
+# Engenharia de Software · IA aplicada ao Comércio Exterior
+ 
+Estudante de Engenharia de Software atuando na *China Gate* — assessoria de importação China-Brasil com mais de 300 operações mensais.
+ 
+Meu foco está em aplicar *Inteligência Artificial e automação* em ambientes de alto volume operacional: desde orquestração de agentes até otimização de fluxos no comércio exterior.
+ 
+---
+ 
+## O que estou construindo
+ 
+- 🤖 Agentes de IA para automação de processos operacionais  
+- 📊 Soluções de análise de dados aplicadas ao comércio exterior  
+- 🔗 Integrações entre sistemas com Python e APIs  
+ 
+---
 
-<!--
-**LuizhParente/LuizhParente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+![snake gif](https://github.com/LuizhParente/LuizhParente/blob/output/github-snake-dark.svg)
+</div>
